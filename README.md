@@ -1,4 +1,4 @@
-# Protocol buffer example for JAVA
+# Protocol buffers example for JAVA
 
 ## Gradle Set up 
 
